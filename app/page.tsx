@@ -79,7 +79,7 @@ const [testiIndex, setTestiIndex] = useState(0);
         onClick={() => window.open("https://wa.me/628170044777?text=Selamat%20siang,%20saya%20mau%20konsultasi%20project", "_blank")}
         className="fixed bottom-10 right-10 flex items-center gap-2 font-semibold bg-white text-black px-6 py-4 rounded-full text-xl hover:opacity-100 hover:-translate-y-1 hover:scale-105 transition-all duration-300 shadow-lg z-50"
       >
-        Konsultasi Project
+        Konsultasi
         <MdCallMade className="text-xl" />
       </motion.button>
 
